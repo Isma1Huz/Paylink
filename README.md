@@ -85,14 +85,6 @@ Thank you for using this school management system! We hope it helps you on your 
 
 Authored by:
 
-[Bisinle Daud](https://github.com/Bisinle)
-
-[Cathy Maseki](https://github.com/cherise43)
-
-[Joseph Karanja](https://github.com/Joeyy-K)
-
-[Gordon Kengere](https://github.com/Slonetech)
-
-[Tony Brian ](https://github.com/tonybria)
+Ismael Hussein
 
 Licensed under the [MIT License](LICENSE) - see the [LICENSE](LICENSE) file for details.
